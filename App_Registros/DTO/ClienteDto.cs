@@ -9,7 +9,7 @@ namespace App_Registros.DTO
     internal class ClienteDto
     {
         //ATRIBUTOS
-        string _Id;
+        int _Id;
         string _Nombre;
         string _Apellido;
         string _Direccion;
@@ -18,7 +18,7 @@ namespace App_Registros.DTO
         string _Telefono;
         string _Ocupacion;
 
-        public string Id
+        public int Id
         {
             get
             {

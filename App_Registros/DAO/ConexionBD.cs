@@ -10,6 +10,7 @@ namespace App_Registros.DAO
 {
     internal class ConexionBD
     {
-        protected SqlConnection Conexion = new SqlConnection("Server= ")
+        protected SqlConnection Conexion = new SqlConnection("Server=DESKTOP-7KHO1J8; DataBase=Practica_Patrones;Integrated Security=true");
+
     }
 }

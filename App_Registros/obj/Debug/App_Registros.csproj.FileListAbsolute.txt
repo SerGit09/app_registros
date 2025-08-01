@@ -1,0 +1,11 @@
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\bin\Debug\App_Registros.exe.config
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\bin\Debug\App_Registros.exe
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\bin\Debug\App_Registros.pdb
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.csproj.AssemblyReference.cache
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.Properties.Resources.resources
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.UI.FormClientes.resources
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.UI.FormPrincipal.resources
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.csproj.GenerateResource.cache
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.csproj.CoreCompileInputs.cache
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.exe
+C:\Users\DELL PC\Desktop\APP REGISTROS\app_registros\App_Registros\obj\Debug\App_Registros.pdb
